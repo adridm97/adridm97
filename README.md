@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- Banner animado o gráfico llamativo -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=¡Hola%2C+soy+Adrián+Dueñas!;Desarrollador+C%2C+C%2B%2B%2C+Bash+y+Docker;Apasionado+por+la+tecnología+y+los+retos" alt="Typing SVG" />
+</p>
 
-<!--
-**adridm97/adridm97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Badges principales -->
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redes-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Técnico%20Sistemas-FFD700?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 Sobre mí
+
+¡Hey! Soy Adrián, desarrollador y técnico de sistemas/redes con pasión por los retos y el aprendizaje constante. Me encanta crear, romper y volver a construir, siempre usando C, C++, bash y docker como herramientas de combate.
+
+---
+
+## 🛠️ Tecnologías & Skills
+
+- **Lenguajes:** C, C++
+- **Scripting:** Bash
+- **Contenerización:** Docker
+- **Sistemas & Redes:** Gestión, configuración y troubleshooting
+- **OS:** Linux lover 🐧
+
+---
+
+## 🌟 Proyectos favoritos
+
+- [Inception](#)  
+- [Minishell](#)  
+- [Fract-ol](#)  
+<sub>*(¡Pide links si quieres que los añada!)*</sub>
+
+---
+
+## 📈 Estadísticas (¡Porque el código también se presume!)
+
+<div align="center">
+  
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=adridm97&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adridm97&layout=compact&theme=tokyonight" />
+  
+</div>
+
+---
+
+## 🌐 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián%20Dueñas%20Moreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-dueñas-moreira)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
