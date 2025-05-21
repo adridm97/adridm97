@@ -1,6 +1,5 @@
-<!-- Banner animado o gráfico llamativo -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=¡Hola%2C+soy+Adrián+Dueñas!;Desarrollador+C%2C+C%2B%2B%2C+Bash+y+Docker;Apasionado+por+la+tecnología+y+los+retos" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=160&section=header&text=¡Hola!%20Soy%20Adrián%20Dueñas&fontColor=ffffff&fontSize=32&animation=twinkling" alt="banner" />
 </p>
 
 ---
